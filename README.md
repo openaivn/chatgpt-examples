@@ -5,7 +5,7 @@ Các bước tải xuống và cài đặt API Key:
 3. copy file `.env.example` to new file `.env`
 4. set OPENAI_API_KEY in `.env`
 
-Đăng ký tài khoản và tạo [API Key miễn phí][https://cloud.openai.vn/#/Account/api-keys] tại địa chỉ:
+Đăng ký tài khoản và tạo [API Key miễn phí](https://cloud.openai.vn/#/Account/api-keys) tại địa chỉ:
 
 > Link: [https://cloud.openai.vn/#/Account/api-keys](https://cloud.openai.vn/#/Account/api-keys)
 
