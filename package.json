@@ -1,0 +1,32 @@
+{
+  "name": "chatgpt-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "npx tsx examples/demo.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openaivn/chatgpt-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openaivn/chatgpt-examples/issues"
+  },
+  "homepage": "https://github.com/openaivn/chatgpt-examples#readme",
+  "devDependencies": {
+    "@types/node": "^20.4.1",
+    "ora": "^6.3.1",
+    "tsup": "^7.1.0",
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "chatgpt": "^5.2.5",
+    "dotenv-safe": "^8.2.0"
+  }
+}
