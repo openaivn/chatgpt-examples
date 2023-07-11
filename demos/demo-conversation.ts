@@ -15,6 +15,7 @@ dotenv.config()
 async function main() {
   const api = new ChatGPTAPI({
     apiKey: process.env.OPENAI_API_KEY,
+    apiBaseUrl: "https://api.openai.vn/v1",
     debug: false
   })
 
