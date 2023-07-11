@@ -20,3 +20,9 @@ Các bước tải xuống và cài đặt API Key:
 3. Mẫu chương trình chat giữa người và AI:
 
 > npx tsx demos/demo-conversation.ts
+
+# Examples Usage
+
+1. Sử dụng thư viện: `openai-edge`
+
+> npx tsx examples/openai-edge/main.ts

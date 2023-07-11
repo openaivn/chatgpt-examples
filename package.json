@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "chatgpt": "^5.2.5",
-    "dotenv-safe": "^8.2.0"
+    "dotenv-safe": "^8.2.0",
+    "openai-edge": "^1.2.0"
   }
 }
