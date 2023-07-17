@@ -26,3 +26,7 @@ Các bước tải xuống và cài đặt API Key:
 1. Sử dụng thư viện: `openai-edge`
 
 > npx tsx examples/openai-edge/main.ts
+
+2. Sử dụng thư viện: `openai`
+
+> npx tsx examples/openai/main.ts
